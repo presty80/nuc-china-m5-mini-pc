@@ -60,20 +60,6 @@
 			<string>ItlNetworkUserClient</string>
 			<key>WiFiConfig</key>
 			<dict>
-				<key>VodafoneNero</key>
-				<dict>
-					<key>password</key>
-					<string>BucoDiCuloCeloDuroCeloDuro</string>
-					<key>ssid</key>
-					<string>ssdt</string>
-				</dict>
-				<key>Vodafone5GHzNero</key>
-				<dict>
-					<key>password</key>
-					<string>BucoDiCuloCeloDuroCeloDuro</string>
-					<key>ssid</key>
-					<string>ssdt_5G</string>
-				</dict>
 				<key>WiFi_3</key>
 				<dict>
 					<key>password</key>
